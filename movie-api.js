@@ -45,7 +45,7 @@ function displayMovieOptions(x) {
 				// 				<div class="card-body">
 				// 					<h5 class="card-title">${item.titleText.text}</h5>
 				// 					<p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-				// 					<a href="#" class="btn btn-primary">Movie link</a>
+				// 					<a href="#" class="btn btn-primary">Movie Preview</a>
 				// 				</div>
 				// 			</div>
 				// `

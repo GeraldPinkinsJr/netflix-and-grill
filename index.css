@@ -121,6 +121,9 @@ body {
   #movies-container {
     margin: 10px;
   }
+  #movie-head{
+    text-align: center;
+  }
   #recipes-container {
     margin: 10px;
   }
@@ -146,6 +149,11 @@ body {
     border-radius: 0%;
   }
   
+.card-img-top {
+    width: 286px;
+    height: 400px;
+}
+
   
   .section-body {
     padding: 20px 0;
